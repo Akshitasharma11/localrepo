@@ -1,2 +1,2 @@
-Problem: To add and subtract two complex number.
-Language used: C
+This is a learning repository of C++
+
