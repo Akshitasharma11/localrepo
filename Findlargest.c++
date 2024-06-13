@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-    int a, b,largest;
+    int a, b;
     cout<<"Enter two numbers for comparision";
     cin>>a>>b;
     if(a>b){
