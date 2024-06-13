@@ -1,1 +1,3 @@
-This is a learning repository of C++
+Language used: c++
+Author: Akshita Sharma
+Topic:All the assignments for beginners
